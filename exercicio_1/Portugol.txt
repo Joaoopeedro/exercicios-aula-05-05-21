@@ -1,0 +1,22 @@
+programa{
+
+    inteiro resposta
+    logico respostaCorreta
+
+    função inicio(){
+        
+        respostaCorreta = FALSO
+        enquanto(respostaCorreta = FALSO)faca
+            escreva("Digite um numero de 0 a 10: ")
+            leia (resposta)
+
+            se(resposta >= 0 e resposta <= 10 )entao
+                escreva("Este valor é valido!!")
+                respostaCorreta = VERDADEIRO
+            senao
+             
+                escreva("Este valor não é valido!")
+            fimse
+        fimenquanto
+    }
+}

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\exercicioExtra.exe
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\exercicioExtra.deps.json
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\exercicioExtra.runtimeconfig.json
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\exercicioExtra.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\exercicioExtra.dll
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\ref\exercicioExtra.dll
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\bin\Debug\net5.0\exercicioExtra.pdb
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.AssemblyInfo.cs
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.dll
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\ref\exercicioExtra.dll
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.pdb
+C:\Users\user\Documents\backend_1\aula-dia05.05-ex\exercicioExtra\obj\Debug\net5.0\exercicioExtra.genruntimeconfig.cache

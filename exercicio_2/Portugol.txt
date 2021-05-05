@@ -1,0 +1,28 @@
+Programa {
+
+    logico senhaCerta
+    real nome
+    real senha
+
+
+    Função inicio(){
+
+        senhaCerta = FALSO
+
+        faça 
+            escreva("Digite sua nome:")
+            leia (nome)
+            escreva("Digite sua senha:")
+            leia (senha)
+
+            se (senha =/= nome)entao 
+                escreva("Está senha esta valida !!")
+                senhaCerta = VERDADEIRO
+            senao
+                escreva("ERRO !!!")
+                escreva("Sua senha tem que ser diferente do seu nome !!")
+            fimse
+
+        enquanto (senhaCerta = FALSO)
+    }
+}

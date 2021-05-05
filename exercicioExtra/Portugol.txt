@@ -1,0 +1,25 @@
+programa{
+
+    inteiro numero
+    inteiro numeroAnterior
+    inteiro numeroAtual
+
+
+    função inicio(){
+        escreva("Fibonacci")
+
+        numero = 
+        numeroAnterior = 0
+        numeroAtual = 1 
+
+        para(inteiro i = 0; i < 16; i++)
+            numero = numeroAnterior + numeroAtual 
+            numeroAnterior = numeroAtual 
+            numeroAtual = numero 
+
+            escreva(numeroAnterior)
+            temporizador(300)
+    }
+    
+    
+}

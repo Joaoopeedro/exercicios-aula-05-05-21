@@ -1,0 +1,79 @@
+programa{
+
+    logico correta1
+    real nome
+    logico correta2
+    inteiro idade
+    logico correta3
+    real salario
+    real salario1
+    logico correta4
+    real estadoCivil
+
+    Função inicio(){
+
+        correta1 = FALSO
+        faça
+            escreva("Qual seu nome?")
+            leia (nome)
+
+            se(nome = "")entao
+                escreva("Campo obrigatorio")
+            senao
+                escreva("que belo nome!")
+                correta1 = VERDADEIRO
+            fimse
+        enquanto (correta1 = FALSO) 
+
+
+        correta2 = FALSO
+        faça
+            escreva("Qual sua idade?")
+            leia idade
+
+            se(idade >= 0 e idade <= 150)entao
+                escreva("Pensava que vc era mais novo")
+                correta2 = VERDADEIRO
+            senao
+                escreva("Parabens,você esta na beira da morte!!")
+            fomse
+        enquanto(correta2 = FALSE)
+
+        correta3 = FALSO
+        faça
+            escreva("Qual o valor do seu salario?")
+            leia (salario)
+
+            se(salario = "")entao
+                salario = "0"
+            fimse
+
+            salario1 = salario
+
+            se(salario1 > 0)entao
+                correta3 = VERDADEIRO
+            senao
+                escreva("Salario Invalido! Tente novamente!")
+            fimse
+        enquanto(correta3 = FALSO)
+
+        correta4 = FALSO
+        faça
+            escreva("Digite seu estado civil ('s'(solteiro(a)); ('c'(casado(a)); ('v'(viuvo(a));('d'(divorciado(a)) ")
+            leia(estadoCivil)
+
+            se(estadoCivil = "s" ou estadoCivil = "c" ou estadoCivil = "v" ou estadoCivil = "d")entao
+                escreva("informação valida!!")
+                correta4 = VERDADEIRO
+            senao
+                escreva("informação invalida!!")
+        enquanto(correta4 = FALSO)
+
+        escreva("Os valores atribuidos foram:")
+        escreva("Seu nome: " + nome)
+        escreva("Sua idade: " + idade + " anos")
+        escreva("Seu Salario: " + "R$"  +salario)
+        escreva("Estado Civil: " + estadoCivil )
+    }
+
+}
